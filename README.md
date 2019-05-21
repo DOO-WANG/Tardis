@@ -1,2 +1,2 @@
-# Tardis
+# python
 练习
